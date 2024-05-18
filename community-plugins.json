@@ -11672,7 +11672,7 @@
         "id": "hexo-publisher",
         "name": "Hexo Publisher",
         "author": "zhenlohuang",
-        "description": "Publish your Obsidian notes to Hexo.",
+        "description": "Publish your notes from Obsidian to Hexo.",
         "repo": "zhenlohuang/obsidian-hexo-publisher"
     }
 ]
