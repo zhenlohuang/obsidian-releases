@@ -11667,5 +11667,12 @@
         "author": "rooyca",
         "description": "Read, query and work with JSON.",
         "repo": "rooyca/query-json"
+    },
+    {
+        "id": "obsidian-hexo-publisher",
+        "name": "Obsidian Hexo Publisher",
+        "author": "zhenlohuang",
+        "description": "Publish your Obsidian notes to Hexo.",
+        "repo": "zhenlohuang/obsidian-hexo-publisher"
     }
 ]
