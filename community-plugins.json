@@ -11674,5 +11674,12 @@
         "author": "zhenlohuang",
         "description": "Publish your notes from Obsidian to Hexo.",
         "repo": "zhenlohuang/obsidian-hexo-publisher"
-    }
+    },
+    {
+        "id": "voicenotes-sync",
+        "name": "Voicenotes Sync",
+        "author": "Andrew Lombardi",
+        "description": "A plugin for syncing Voicenotes.com data into notes",
+        "repo": "mysticcoders/voicenotes-sync"
+    }    
 ]
